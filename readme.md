@@ -16,8 +16,8 @@ I selected the five "most watched overall" shell projects on GitHub as of
 
 ## Sourceforge
 
-I filtered by "Freshness: Recently updated" and "Environment: Console/Terminal",
-sorted by "Most Popular", and went down the list, recording the first five
-projects that used shell.
+On 18 September 2012, I filtered by "Freshness: Recently updated" and
+"Environment: Console/Terminal", sorted by "Most Popular", and went down the
+list, recording the first five projects that used shell.
 
 1. [Ubuntuzilla](http://ubuntuzilla.sourceforge.net) doesn't use shell scripts anymore, but they [used to](http://sourceforge.net/apps/mediawiki/ubuntuzilla/index.php?title=Ubuntuzilla_Shell_Scripts)
