@@ -21,3 +21,5 @@ On 18 September 2012, I filtered by "Freshness: Recently updated" and
 list, recording the first five projects that used shell.
 
 1. [Ubuntuzilla](http://ubuntuzilla.sourceforge.net) doesn't use shell scripts anymore, but they [used to](http://sourceforge.net/apps/mediawiki/ubuntuzilla/index.php?title=Ubuntuzilla_Shell_Scripts)
+2. [Clonezilla](http://clonezilla.org) uses [bash and perl](http://clonezilla.org/downloads/src/)
+3. [xCAT](http://xcat.sourceforge.net/)
