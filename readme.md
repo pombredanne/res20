@@ -12,7 +12,7 @@ I selected the five "most watched overall" shell projects on GitHub as of
 2. [nvie](https://github.com/nvie) / [gitflow](https://github.com/nvie/gitflow)
 3. [xdissent](https://github.com/xdissent) / [ievms](https://github.com/xdissent/ievms)
 4. [sstephenson](https://github.com/sstephenson) / [rbenv](https://github.com/sstephenson/rbenv)
-5. [wayneeseguin](https://github.com/wayneeseguin) / [rvm](https://github.com/wayneeseguin/rvm)
+5. [wayneeseguin](https://github.com/wayneeseguin) / [rvm](https://github.com/wayneeseguin/rvm) wrote its [own test-runner](https://github.com/wayneeseguin/rvm/blob/master/vboxtest/test/unit/utility_test.sh) 
 
 ## Sourceforge
 
