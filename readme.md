@@ -27,4 +27,5 @@ list, recording the first five projects that used shell.
 
 
 ## More stuff
-git-achievements has a [hack](https://github.com/icefox/git-achievements/blob/gh-pages/test/testscript) of a test script.
+* git-achievements has a [hack](https://github.com/icefox/git-achievements/blob/gh-pages/test/testscript) of a test script.
+* so [does](https://github.com/holman/spark/blob/master/test) spark.
